@@ -1,3 +1,7 @@
+## My Link for 8-0-0
+
+https://eight-0-0-assignment-willcodeustak-11.onrender.com
+
 # My First Express Server
 
 In this assignment, you will be tasked with creating and deploying a simple Express server. The server will have four GET endpoints, two that serve HTML and two that serve raw data. One of those data endpoints will use query parameters.
@@ -99,10 +103,6 @@ When you're done, push your code to github and [follow these steps to deploy usi
 ![](./images/deployed-github.png)
 
 Here is an example of a deployed server: https://github.com/benspector-mls/first-express-server-f23-test
-
-## My Link for 8-0-0
-
-https://eight-0-0-assignment-willcodeustak-11.onrender.com
 
 ## Submit
 
